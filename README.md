@@ -2,15 +2,15 @@
 
 Demo Aplikasi Rental Mobil RK.
 
-![]()
+![](https://github.com/zahariz/rental-mobil-rk/blob/main/rental-mobil-screenshot.png)
 
 ## Installation
 
 Clone the repo locally:
 
 ```sh
-git clone 
-cd rent-cars-app
+git clone https://github.com/zahariz/rental-mobil-rk.git
+cd rental-mobil-rk
 ```
 
 Install PHP dependencies:
@@ -71,3 +71,11 @@ Login sebagai admin :
 
 - **Email:** admin@mail.com
 - **Password:** rahasia
+
+
+Tools yang digunakan :
+
+- **Frontend:** Vue.Js, Inertia.Js
+- **Backend:** Laravel 10
+- **Database:** MySQL
+
